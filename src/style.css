@@ -9,7 +9,7 @@
 
 .title {
     font-size: 85px;
-    color: #fff;
+    color: rgba(219,168,16);
     animation: flipTitle 2s;
 
 }
